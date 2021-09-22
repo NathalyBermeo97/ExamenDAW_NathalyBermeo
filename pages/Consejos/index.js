@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import axios from 'axios';
-import {Button} from "@mui/material";
+//import axios from 'axios';
+//import {Button} from "@mui/material";
 
 
 const AdvicePage = () => {
